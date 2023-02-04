@@ -7,7 +7,7 @@ categories: Data analysis Data visualization
 tags: API NLP visualization
 featured_image: 'img/posts/03_rescue-themes-1130x864-2x.png'
 project_link: 'https://github.com/codyaug/Vice-youtube-analyst'
-button_text: 'VNatural Language Processing'
+button_text: 'Natural Language Processing'
 button_icon: 'github'
 lead_text: 'This is a YouTube data analysis and retrieval project using APIs and various data analysis and visualization libraries'
 ---
