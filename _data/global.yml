@@ -4,9 +4,9 @@ description: "As a data-driven analyst from New York, I bring expertise in uncov
 url: 'http://actsecure.github.io/phantom/' # the base hostname & protocol for your site
 nav: "true"
 footer_text: '© 2023 Cody Augustin'
-twitter: 'securingchange'
-github: 'securingchange'
-facebook: 'securingchange'
+linkedin: 'cody-augustin'
+github: 'codyaug'
+
 
 # Admin Settings
 admin_name: 'Cody Augustin'
