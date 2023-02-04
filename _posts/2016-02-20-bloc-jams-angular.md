@@ -1,7 +1,7 @@
 ---
 layout: inner
 position: right
-title: 'Bloc Jams Angular'
+title: 'Bloc Jams Angular hehe'
 date: 2016-02-20 14:15:00
 categories: development
 tags: JavaScript AngularJS Sass Grunt
