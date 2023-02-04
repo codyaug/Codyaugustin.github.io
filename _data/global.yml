@@ -1,14 +1,14 @@
 # Site Settings
-title: "Syed Usman Zafar."
-description: "Software Engineer"
+title: "Cody Augustin."
+description: "As a data-driven analyst from New York, I bring expertise in uncovering valuable insights from data through the effective use of various tools and techniques."
 url: 'http://actsecure.github.io/phantom/' # the base hostname & protocol for your site
 nav: "true"
-footer_text: '© 2018 SecuringChange'
+footer_text: '© 2023 Cody Augustin'
 twitter: 'securingchange'
 github: 'securingchange'
 facebook: 'securingchange'
 
 # Admin Settings
-admin_name: 'René Perez'
-admin_email: 'rene@securingchange.org'
+admin_name: 'Cody Augustin'
+admin_email: 'augustincody@yahoo.com'
 google_analytics: "UA-9999999-99" # Update with your own tracking ID
