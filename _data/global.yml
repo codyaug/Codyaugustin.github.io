@@ -1,6 +1,6 @@
 # Site Settings
 title: "Syed Usman Zafar."
-description: "a description will be here"
+description: "Software Engineer"
 url: 'http://actsecure.github.io/phantom/' # the base hostname & protocol for your site
 nav: "true"
 footer_text: '© 2018 SecuringChange'
