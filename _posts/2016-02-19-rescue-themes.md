@@ -1,13 +1,13 @@
 ---
 layout: inner
 position: right
-title: 'Rescue Themes'
-date: 2016-02-20 15:56:00
-categories: development design
-tags: WordPress PHP Sass
+title: 'Vice Youtube API Analysis'
+date: 2022-06-13 15:56:00
+categories: Data analysis Data visualization
+tags: API NLP visualization
 featured_image: 'img/posts/03_rescue-themes-1130x864-2x.png'
-project_link: 'https://rescuethemes'
-button_text: 'Visit Rescue Themes'
-button_icon: 'wordpress'
-lead_text: 'Designed and developed all WordPress themes'
+project_link: 'https://github.com/codyaug/Vice-youtube-analyst'
+button_text: 'VNatural Language Processing'
+button_icon: 'github'
+lead_text: 'This is a YouTube data analysis and retrieval project using APIs and various data analysis and visualization libraries'
 ---
