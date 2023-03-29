@@ -2,7 +2,7 @@
 layout: inner
 position: right
 title: 'Vice Youtube API Analysis'
-date: 2022-06-13 15:56:00
+date: 2023-03-13 15:56:00
 categories: Data analysis Data visualization
 tags: API NLP visualization
 featured_image: 'img/posts/Artificial%20Intelligence.jpg'
