@@ -9,5 +9,5 @@ featured_image: 'img/posts/market%20analyze.jpg'
 project_link: 'https://github.com/codyaug/City-Metric-Analysis'
 button_text: 'Normalizing data'
 button_icon: 'github'
-lead_text: 'This project analyzes and visualizes the relationship between rental market, population, economic and job growth in cities by merging, transforming, and plotting data from multiple sources.'
+lead_text: 'Actively working on analyzes and visualizes the relationship between rental market, population, economic and job growth in cities by merging, transforming, and plotting data from multiple sources.'
 ---
