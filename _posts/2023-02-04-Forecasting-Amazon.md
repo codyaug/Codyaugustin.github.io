@@ -9,5 +9,5 @@ featured_image: 'img/posts/Pd%20amz.jpg'
 project_link: 'https://github.com/codyaug/Analyzing-Monthly-Report-Data-from-Amazon-Seller-Central'
 button_icon: 'github'
 button_text: 'Predictive Modeling'
-lead_text: 'Actively working to Trains ARIMA/decision tree, predicts and plots future trends/rankings'
+lead_text: 'Actively working to training a ARIMA/decision tree, predicts and plots future trends/rankings'
 ---
