@@ -2,7 +2,7 @@
 layout: inner
 position: Right
 title: 'NASA Turbo Engine Failure Prediction'
-date: 2023-06-01 12:56:00
+date: 2023-05-31 12:56:00
 categories: Machine Learning
 tags: Machine-Learning Predictive-Modeling
 featured_image: 
