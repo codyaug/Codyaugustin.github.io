@@ -1,6 +1,6 @@
 ---
 layout: inner
-position: Right
+position: left
 title: 'NASA Turbo Engine Failure Prediction'
 date: 2023-05-31 12:56:00
 categories: Machine Learning
