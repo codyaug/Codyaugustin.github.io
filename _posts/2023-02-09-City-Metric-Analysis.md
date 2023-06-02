@@ -1,13 +1,13 @@
 ---
 layout: inner
-position: left
-title: 'City Metric Analysis'
-date: 2023-02-09 15:56:00
-categories: Data analysis Data visualization
-tags: Data-Analysis Data-Visualization Data-Normalization
-featured_image: 'img/posts/market%20analyze.jpg'
-project_link: 'https://github.com/codyaug/City-Metric-Analysis'
-button_text: 'Normalizing data'
+position: Right
+title: 'NASA Turbo Engine Failure Prediction'
+date: 2023-05-31 12:56:00
+categories: Machine Learning
+tags: Machine-Learning Predictive-Modeling
+featured_image: 'img/posts/Artificial%20Intelligence.jpg'
+project_link: 'https://github.com/codyaug/NASA-turbo-engine-prediction/tree/main'
 button_icon: 'github'
-lead_text: 'Actively working on analyzing and visualizing the relationship between rental market, population, economic and job growth in cities by merging, transforming, and plotting data from multiple sources.'
+button_text: 'Machine Learning'
+lead_text: 'Predictive maintenance solution using machine learning techniques to forecast component failures'
 ---
