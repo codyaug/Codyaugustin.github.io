@@ -1,7 +1,7 @@
 ---
 layout: inner
 position: left
-title: 'Personal-Loan-Prediction-Project'
+title: 'Personal-Loan-PredictionProject'
 date: 2023-05-31 12:56:00
 categories: Machine Learning
 tags: Machine-Learning Predictive-Modeling
